@@ -9,11 +9,13 @@ You are encouraged to play around with the code and apply it to your own data fo
 
 If you use this work, please do not forget to cite the related papers given below. In addition to the papers below [1,2], the detailed descriptions of the models and their derivations can be found in my PhD thesis [3].
 
- &ndash; Yunus Emre Kara
+ &ndash; Yunus Emre Kara (yekara@yekara.com)
+ 
+ http://yekara.com
 ## References
-1. Kara, Y. E.; Genc, G.; Aran, O.; & Akarun, L. (2015). "_Modeling annotator behaviors for crowd labeling_", Neurocomputing, 160, 141-156.
-1. Kara, Y. E.; Genc, G.; Aran, O.; & Akarun, L. (2018). "_Actively Estimating Crowd Annotation Consensus_", Journal of Artificial Intelligence Research, 61, 363-405.
-1. Kara, Y. E. (2018). "_Crowd Labeling For Continuous Valued Annotations_", PhD Thesis, Bogazici University, Istanbul, Turkey.
+1. Kara, Y. E.; Genc, G.; Aran, O.; & Akarun, L. (2015). "[_Modeling annotator behaviors for crowd labeling_](http://yekara.com/pub/kara2015cl.pdf)", Neurocomputing, 160, 141-156.
+1. Kara, Y. E.; Genc, G.; Aran, O.; & Akarun, L. (2018). "[_Actively Estimating Crowd Annotation Consensus_](https://doi.org/10.1613/jair.5727)", Journal of Artificial Intelligence Research, 61, 363-405.
+1. Kara, Y. E. (2018). "[_Crowd Labeling For Continuous Valued Annotations_](http://yekara.com/pub/kara2018phdthesis.pdf)", PhD Thesis, Bogazici University, Istanbul, Turkey.
 
 ## Datasets
 - **Age Annotations Dataset**: http://yekara.com/age_annotations/
